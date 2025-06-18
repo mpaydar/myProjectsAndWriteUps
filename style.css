@@ -1,0 +1,69 @@
+
+
+
+#carousel_container{
+    padding: 20%;
+}
+.databaseSearch{
+    width: 850px;
+    
+}
+
+.projectName{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top:200px;
+}
+
+
+button{
+    color: aqua;
+}
+#image_row{
+    position: relative;
+    left: 340px;
+    display: flex;
+    justify-content: center;  /* Horizontal */
+    align-items: center;  
+}
+
+
+
+img{
+    height: 250px;
+    width: 600px;
+}
+#buttons{
+  position: fixed; /* or absolute */
+  bottom: 139px;    /* push up from bottom */
+  left: 32%;       /* center horizontally */
+}
+
+.githubLogo{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 10px;
+    left: 250px;
+}
+
+#repo1{
+    position: fixed;
+    height: 300px;
+    top: 850px;
+    left: 600px;
+}
+#summary_logo{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top:300px;
+    left: 1100px;
+}
+.linkedin_logo{
+     width: 100px;
+    height: 100px;
+    position: relative;
+    right: 170px;
+
+}
