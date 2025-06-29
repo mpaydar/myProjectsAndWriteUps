@@ -32,12 +32,21 @@
 
 
 #myPhoto{
-    width: 200px;
-    height: 350px;
+    width: 100px;
+    height: 150px;
 }
 
 
 #secondPhoto{
     position: relative;
     top:40px;
+}
+
+
+.card{
+    border-style: none;
+}
+
+.list-item-x{
+    display: none;
 }
